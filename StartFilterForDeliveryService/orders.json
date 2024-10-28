@@ -1,0 +1,62 @@
+[
+    {
+        "OrderId": "001",
+        "Weight": 5.5,
+        "District": "A",
+        "DeliveryDateTime": "2024-10-22 12:00:00"
+    },
+    {
+        "OrderId": "002",
+        "Weight": 3.0,
+        "District": "B",
+        "DeliveryDateTime": "2024-10-22 12:10:00"
+    },
+    {
+        "OrderId": "003",
+        "Weight": 2.0,
+        "District": "C",
+        "DeliveryDateTime": "2024-10-22 12:11:00"
+    },
+    {
+        "OrderId": "004",
+        "Weight": 4.0,
+        "District": "D",
+        "DeliveryDateTime": "2024-10-22 12:40:00"
+    },
+    {
+        "OrderId": "005",
+        "Weight": 4.3,
+        "District": "D",
+        "DeliveryDateTime": "2024-10-22 12:10:00"
+    },
+    {
+        "OrderId": "006",
+        "Weight": 4.5,
+        "District": "C",
+        "DeliveryDateTime": "2024-10-22 12:20:00"
+    },
+    {
+        "OrderId": "007",
+        "Weight": 2.0,
+        "District": "C",
+        "DeliveryDateTime": "2024-10-22 13:10:00"
+    },
+    {
+        "OrderId": "008",
+        "Weight": 1.5,
+        "District": "C",
+        "DeliveryDateTime": "2024-10-22 14:10:00"
+    },
+    {
+        "OrderId": "009",
+        "Weight": 3.0,
+        "District": "A",
+        "DeliveryDateTime": "2024-10-22 12:30:00"
+    },
+    {
+        "OrderId": "010",
+        "Weight": 3.5,
+        "District": "B",
+        "DeliveryDateTime": "2024-10-22 11:50:00"
+    }
+]

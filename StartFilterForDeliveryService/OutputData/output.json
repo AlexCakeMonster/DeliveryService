@@ -1,0 +1,14 @@
+[
+  {
+    "OrderId": "001",
+    "Weight": 5.5,
+    "District": "A",
+    "DeliveryDateTime": "2024-10-22T12:00:00"
+  },
+  {
+    "OrderId": "009",
+    "Weight": 3.0,
+    "District": "A",
+    "DeliveryDateTime": "2024-10-22T12:30:00"
+  }
+]
